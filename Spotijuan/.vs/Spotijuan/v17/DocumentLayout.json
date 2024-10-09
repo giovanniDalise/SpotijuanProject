@@ -1,0 +1,250 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\GDalise\\source\\repos\\giovanniDalise\\Workspace\\SpotijuanProject\\Spotijuan\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F008CBD-17BD-46E0-80A1-9113296C31C6}|SpotijuanDao\\Spotijuan.Dao.csproj|c:\\users\\gdalise\\source\\repos\\giovannidalise\\workspace\\spotijuanproject\\spotijuan\\spotijuandao\\bootstrap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F008CBD-17BD-46E0-80A1-9113296C31C6}|SpotijuanDao\\Spotijuan.Dao.csproj|solutionrelative:spotijuandao\\bootstrap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1477F93-50BD-4384-96D3-DC917A1359B9}|SpotijuanTest\\Spotijuan.Test.csproj|c:\\users\\gdalise\\source\\repos\\giovannidalise\\workspace\\spotijuanproject\\spotijuan\\spotijuantest\\testcanzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1477F93-50BD-4384-96D3-DC917A1359B9}|SpotijuanTest\\Spotijuan.Test.csproj|solutionrelative:spotijuantest\\testcanzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F008CBD-17BD-46E0-80A1-9113296C31C6}|SpotijuanDao\\Spotijuan.Dao.csproj|c:\\users\\gdalise\\source\\repos\\giovannidalise\\workspace\\spotijuanproject\\spotijuan\\spotijuandao\\dao\\daoartisti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F008CBD-17BD-46E0-80A1-9113296C31C6}|SpotijuanDao\\Spotijuan.Dao.csproj|solutionrelative:spotijuandao\\dao\\daoartisti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F008CBD-17BD-46E0-80A1-9113296C31C6}|SpotijuanDao\\Spotijuan.Dao.csproj|c:\\users\\gdalise\\source\\repos\\giovannidalise\\workspace\\spotijuanproject\\spotijuan\\spotijuandao\\dao\\daocanzoni.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F008CBD-17BD-46E0-80A1-9113296C31C6}|SpotijuanDao\\Spotijuan.Dao.csproj|solutionrelative:spotijuandao\\dao\\daocanzoni.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F008CBD-17BD-46E0-80A1-9113296C31C6}|SpotijuanDao\\Spotijuan.Dao.csproj|c:\\users\\gdalise\\source\\repos\\giovannidalise\\workspace\\spotijuanproject\\spotijuan\\spotijuandao\\dao\\idao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F008CBD-17BD-46E0-80A1-9113296C31C6}|SpotijuanDao\\Spotijuan.Dao.csproj|solutionrelative:spotijuandao\\dao\\idao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F008CBD-17BD-46E0-80A1-9113296C31C6}|SpotijuanDao\\Spotijuan.Dao.csproj|c:\\users\\gdalise\\source\\repos\\giovannidalise\\workspace\\spotijuanproject\\spotijuan\\spotijuandao\\dao\\daoabstract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F008CBD-17BD-46E0-80A1-9113296C31C6}|SpotijuanDao\\Spotijuan.Dao.csproj|solutionrelative:spotijuandao\\dao\\daoabstract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F008CBD-17BD-46E0-80A1-9113296C31C6}|SpotijuanDao\\Spotijuan.Dao.csproj|c:\\users\\gdalise\\source\\repos\\giovannidalise\\workspace\\spotijuanproject\\spotijuan\\spotijuandao\\dto\\canzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F008CBD-17BD-46E0-80A1-9113296C31C6}|SpotijuanDao\\Spotijuan.Dao.csproj|solutionrelative:spotijuandao\\dto\\canzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F008CBD-17BD-46E0-80A1-9113296C31C6}|SpotijuanDao\\Spotijuan.Dao.csproj|c:\\users\\gdalise\\source\\repos\\giovannidalise\\workspace\\spotijuanproject\\spotijuan\\spotijuandao\\dto\\utente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F008CBD-17BD-46E0-80A1-9113296C31C6}|SpotijuanDao\\Spotijuan.Dao.csproj|solutionrelative:spotijuandao\\dto\\utente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F008CBD-17BD-46E0-80A1-9113296C31C6}|SpotijuanDao\\Spotijuan.Dao.csproj|c:\\users\\gdalise\\source\\repos\\giovannidalise\\workspace\\spotijuanproject\\spotijuan\\spotijuandao\\dto\\artista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F008CBD-17BD-46E0-80A1-9113296C31C6}|SpotijuanDao\\Spotijuan.Dao.csproj|solutionrelative:spotijuandao\\dto\\artista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1477F93-50BD-4384-96D3-DC917A1359B9}|SpotijuanTest\\Spotijuan.Test.csproj|c:\\users\\gdalise\\source\\repos\\giovannidalise\\workspace\\spotijuanproject\\spotijuan\\spotijuantest\\testabstract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1477F93-50BD-4384-96D3-DC917A1359B9}|SpotijuanTest\\Spotijuan.Test.csproj|solutionrelative:spotijuantest\\testabstract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 20,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TestAbstract.cs",
+              "DocumentMoniker": "C:\\Users\\GDalise\\source\\repos\\giovanniDalise\\Workspace\\SpotijuanProject\\Spotijuan\\SpotijuanTest\\TestAbstract.cs",
+              "RelativeDocumentMoniker": "SpotijuanTest\\TestAbstract.cs",
+              "ToolTip": "C:\\Users\\GDalise\\source\\repos\\giovanniDalise\\Workspace\\SpotijuanProject\\Spotijuan\\SpotijuanTest\\TestAbstract.cs",
+              "RelativeToolTip": "SpotijuanTest\\TestAbstract.cs",
+              "ViewState": "AQIAAJ0AAAAAAAAAAAAAAKQAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-23T16:40:43.36Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{ecb7191a-597b-41f5-9843-03a4cf275dde}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:27:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:31:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{80454082-9ab8-47d4-af23-82bf6739e2a9}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{65ddf8c3-8f89-4077-a6c6-dbb8853aab13}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{65ddf8c3-8f89-4077-a6c6-dbb8853aab13}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{65ddf8c3-8f89-4077-a6c6-dbb8853aab13}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:39:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:40:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:7:0:{65ddf8c3-8f89-4077-a6c6-dbb8853aab13}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{605322a2-17ae-43f4-b60f-766556e46c87}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TestCanzone.cs",
+              "DocumentMoniker": "C:\\Users\\GDalise\\source\\repos\\giovanniDalise\\Workspace\\SpotijuanProject\\Spotijuan\\SpotijuanTest\\TestCanzone.cs",
+              "RelativeDocumentMoniker": "SpotijuanTest\\TestCanzone.cs",
+              "ToolTip": "C:\\Users\\GDalise\\source\\repos\\giovanniDalise\\Workspace\\SpotijuanProject\\Spotijuan\\SpotijuanTest\\TestCanzone.cs",
+              "RelativeToolTip": "SpotijuanTest\\TestCanzone.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-24T09:19:24.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DaoArtisti.cs",
+              "DocumentMoniker": "C:\\Users\\GDalise\\source\\repos\\giovanniDalise\\Workspace\\SpotijuanProject\\Spotijuan\\SpotijuanDao\\Dao\\DaoArtisti.cs",
+              "RelativeDocumentMoniker": "SpotijuanDao\\Dao\\DaoArtisti.cs",
+              "ToolTip": "C:\\Users\\GDalise\\source\\repos\\giovanniDalise\\Workspace\\SpotijuanProject\\Spotijuan\\SpotijuanDao\\Dao\\DaoArtisti.cs",
+              "RelativeToolTip": "SpotijuanDao\\Dao\\DaoArtisti.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAgwDsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-23T15:54:49.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DaoAbstract.cs",
+              "DocumentMoniker": "C:\\Users\\GDalise\\source\\repos\\giovanniDalise\\Workspace\\SpotijuanProject\\Spotijuan\\SpotijuanDao\\Dao\\DaoAbstract.cs",
+              "RelativeDocumentMoniker": "SpotijuanDao\\Dao\\DaoAbstract.cs",
+              "ToolTip": "C:\\Users\\GDalise\\source\\repos\\giovanniDalise\\Workspace\\SpotijuanProject\\Spotijuan\\SpotijuanDao\\Dao\\DaoAbstract.cs",
+              "RelativeToolTip": "SpotijuanDao\\Dao\\DaoAbstract.cs",
+              "ViewState": "AQIAAMcAAAAAAAAAAAAQwPAAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-02T10:59:52.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IDao.cs",
+              "DocumentMoniker": "C:\\Users\\GDalise\\source\\repos\\giovanniDalise\\Workspace\\SpotijuanProject\\Spotijuan\\SpotijuanDao\\Dao\\IDao.cs",
+              "RelativeDocumentMoniker": "SpotijuanDao\\Dao\\IDao.cs",
+              "ToolTip": "C:\\Users\\GDalise\\source\\repos\\giovanniDalise\\Workspace\\SpotijuanProject\\Spotijuan\\SpotijuanDao\\Dao\\IDao.cs",
+              "RelativeToolTip": "SpotijuanDao\\Dao\\IDao.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T14:16:56.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Canzone.cs",
+              "DocumentMoniker": "C:\\Users\\GDalise\\source\\repos\\giovanniDalise\\Workspace\\SpotijuanProject\\Spotijuan\\SpotijuanDao\\Dto\\Canzone.cs",
+              "RelativeDocumentMoniker": "SpotijuanDao\\Dto\\Canzone.cs",
+              "ToolTip": "C:\\Users\\GDalise\\source\\repos\\giovanniDalise\\Workspace\\SpotijuanProject\\Spotijuan\\SpotijuanDao\\Dto\\Canzone.cs",
+              "RelativeToolTip": "SpotijuanDao\\Dto\\Canzone.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-24T09:14:44.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Artista.cs",
+              "DocumentMoniker": "C:\\Users\\GDalise\\source\\repos\\giovanniDalise\\Workspace\\SpotijuanProject\\Spotijuan\\SpotijuanDao\\Dto\\Artista.cs",
+              "RelativeDocumentMoniker": "SpotijuanDao\\Dto\\Artista.cs",
+              "ToolTip": "C:\\Users\\GDalise\\source\\repos\\giovanniDalise\\Workspace\\SpotijuanProject\\Spotijuan\\SpotijuanDao\\Dto\\Artista.cs",
+              "RelativeToolTip": "SpotijuanDao\\Dto\\Artista.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-23T20:08:16.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BootStrap.cs",
+              "DocumentMoniker": "C:\\Users\\GDalise\\source\\repos\\giovanniDalise\\Workspace\\SpotijuanProject\\Spotijuan\\SpotijuanDao\\BootStrap.cs",
+              "RelativeDocumentMoniker": "SpotijuanDao\\BootStrap.cs",
+              "ToolTip": "C:\\Users\\GDalise\\source\\repos\\giovanniDalise\\Workspace\\SpotijuanProject\\Spotijuan\\SpotijuanDao\\BootStrap.cs",
+              "RelativeToolTip": "SpotijuanDao\\BootStrap.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T14:03:43.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DaoCanzoni.cs",
+              "DocumentMoniker": "C:\\Users\\GDalise\\source\\repos\\giovanniDalise\\Workspace\\SpotijuanProject\\Spotijuan\\SpotijuanDao\\Dao\\DaoCanzoni.cs",
+              "RelativeDocumentMoniker": "SpotijuanDao\\Dao\\DaoCanzoni.cs",
+              "ToolTip": "C:\\Users\\GDalise\\source\\repos\\giovanniDalise\\Workspace\\SpotijuanProject\\Spotijuan\\SpotijuanDao\\Dao\\DaoCanzoni.cs",
+              "RelativeToolTip": "SpotijuanDao\\Dao\\DaoCanzoni.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-24T09:15:40.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Utente.cs",
+              "DocumentMoniker": "C:\\Users\\GDalise\\source\\repos\\giovanniDalise\\Workspace\\SpotijuanProject\\Spotijuan\\SpotijuanDao\\Dto\\Utente.cs",
+              "RelativeDocumentMoniker": "SpotijuanDao\\Dto\\Utente.cs",
+              "ToolTip": "C:\\Users\\GDalise\\source\\repos\\giovanniDalise\\Workspace\\SpotijuanProject\\Spotijuan\\SpotijuanDao\\Dto\\Utente.cs",
+              "RelativeToolTip": "SpotijuanDao\\Dto\\Utente.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T14:09:35.09Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{be4d7042-ba3f-11d2-840e-00c04f9902c1}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
